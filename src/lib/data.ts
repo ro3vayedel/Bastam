@@ -377,7 +377,7 @@ export const CONTACT = {
   fullName: {
     fa: "دکتر حسین بستام",
     en: "Dr. Hossein Bastam",
-    ar: "د. حسين باستام",
+    ar: "د. حسين بستام",
   } as Localized,
   monogram: "HB",
 };

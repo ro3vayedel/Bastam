@@ -32,7 +32,7 @@ const faDict = {
     greeting: "سلام! من",
     role: "مدرس دانشگاه و مدیر سلامت، ایمنی و محیط زیست (HSE)",
     description:
-      "بیش از یک دهه مدیریت HSE در پروژه‌های بزرگ نفت، گاز و پالایشگاهی ایران؛ از فاز ۱۴ پارس جنوبی و فاز ۲ پالایشگاه آبادان تا صنایع کاغذ خوزستان.",
+      "بیش از یک دهه مدیریت HSE در پروژه‌های بزرگ نفت، گاز و پالایشگاهی ایران؛ از فاز ۱۲ پارس جنوبی و فاز ۲ پالایشگاه آبادان تا صنایع کاغذ خوزستان.",
     location: "خرمشهر، خوزستان، ایران",
     badges: ["دکترای مدیریت صنعتی", "کارشناس ارشد HSE", "مهندس برق"],
     ctaContact: "تماس با من",
@@ -56,8 +56,8 @@ const faDict = {
     subtitle: "ترکیب دانش مدیریتی، فنی و تخصصی ایمنی برای پروژه‌های پیچیده صنعتی",
     paragraphs: [
       "من دکتر حسین بستام هستم؛ مدرس دانشگاه و مدیر سلامت، ایمنی و محیط زیست (HSE) با بیش از ۱۱ سال تجربه در صنایع نفت، گاز، پتروشیمی، پالایشگاهی و ساخت‌وساز صنعتی ایران.",
-      "تحصیلات من شامل دکترای مدیریت صنعتی (در حال تحصیل در دانشگاه آزاد اسلامی واحد سنندج)، کارشناسی ارشد مهندسی بهداشت، ایمنی و محیط زیست از دانشگاه مهراروند و کارشناسی مهندسی برق و الکترونیک است. این ترکیب به من امکان می‌دهد سیستم‌های مدیریت HSE را به‌صورت یکپارچه و مبتنی بر داده در پروژه‌های پیچیده پیاده‌سازی کنم.",
-      "در مسیر حرفه‌ای‌ام، مسئولیت طراحی و اجرای برنامه‌های HSE، ارزیابی ریسک، مدیریت وضعیت‌های اضطراری و آموزش تخصصی را در پروژه‌هایی مانند فاز ۱۴ پارس جنوبی، خطوط انتقال گاز ترش ۳۲ اینچ، فاز ۲ پالایشگاه آبادان و ساخت سازه دریایی SPM بر عهده داشته‌ام.",
+      "تحصیلات من شامل دکترای مدیریت صنعتی (اتمام آزمون جامع دکترا در دانشگاه آزاد اسلامی واحد سنندج)، کارشناسی ارشد مهندسی بهداشت، ایمنی و محیط زیست از دانشگاه مهراروند و کارشناسی مهندسی برق و الکترونیک است. این ترکیب به من امکان می‌دهد سیستم‌های مدیریت HSE را به‌صورت یکپارچه و مبتنی بر داده در پروژه‌های پیچیده پیاده‌سازی کنم.",
+      "در مسیر حرفه‌ای‌ام، مسئولیت طراحی و اجرای برنامه‌های HSE، ارزیابی ریسک، مدیریت وضعیت‌های اضطراری و آموزش تخصصی را در پروژه‌هایی مانند فاز ۱۲ پارس جنوبی، خطوط انتقال گاز ترش ۳۲ اینچ، فاز ۲ پالایشگاه آبادان و ساخت سازه دریایی SPM بر عهده داشته‌ام.",
     ],
     highlights: [
       "مدیریت سیستم‌های HSE",
@@ -177,7 +177,7 @@ const faDict = {
     eyebrow: "تحصیلات",
     title: "مدارک دانشگاهی",
     subtitle: "از مهندسی برق تا دکترای مدیریت صنعتی",
-    studying: "در حال تحصیل",
+    studying: "اتمام آزمون جامع دکترا",
     thesisLabel: "پروژه‌های تحصیلی",
     items: [
       {
@@ -273,7 +273,6 @@ const faDict = {
       { name: "فارسی", level: "زبان مادری", percent: 100 },
       { name: "عربی", level: "تسلط کامل", percent: 90 },
       { name: "انگلیسی", level: "سطح حرفه‌ای", percent: 80 },
-      { name: "کردی", level: "مقدماتی", percent: 35 },
     ],
   },
   certificates: {
@@ -344,7 +343,7 @@ const enDict: Dictionary = {
     greeting: "Hello! I'm",
     role: "University Lecturer & Health, Safety and Environment (HSE) Manager",
     description:
-      "More than a decade of HSE leadership on Iran's largest oil, gas and refining projects — from South Pars Phase 14 and Abadan Refinery Phase 2 to the Khuzestan paper industry.",
+      "More than a decade of HSE leadership on Iran's largest oil, gas and refining projects — from South Pars Phase 12 and Abadan Refinery Phase 2 to the Khuzestan paper industry.",
     location: "Khorramshahr, Khuzestan, Iran",
     badges: ["PhD in Industrial Management", "Senior HSE Specialist", "Electrical Engineer"],
     ctaContact: "Contact me",
@@ -368,8 +367,8 @@ const enDict: Dictionary = {
     subtitle: "Combining managerial, technical and safety expertise for complex industrial projects",
     paragraphs: [
       "I'm Dr. Hossein Bastam — a university lecturer and Health, Safety & Environment (HSE) Manager with more than 11 years of experience across Iran's oil, gas, petrochemical, refining and industrial construction sectors.",
-      "My academic background combines a PhD in Industrial Management (in progress at Islamic Azad University, Sanandaj), an M.Sc. in Health, Safety & Environment Engineering from Mehr Arvand University, and a B.Eng. in Electrical & Electronics Engineering. This mix lets me implement integrated, data-driven HSE management systems on complex projects.",
-      "Throughout my career I have led HSE planning, risk assessment, emergency management and specialized training on projects such as South Pars Phase 14, 32-inch sour gas transfer pipelines, Abadan Refinery Phase 2 and the SPM offshore structure — the first of its kind built in the Middle East.",
+      "My academic background combines a PhD in Industrial Management (PhD comprehensive exam completed at Islamic Azad University, Sanandaj), an M.Sc. in Health, Safety & Environment Engineering from Mehr Arvand University, and a B.Eng. in Electrical & Electronics Engineering. This mix lets me implement integrated, data-driven HSE management systems on complex projects.",
+      "Throughout my career I have led HSE planning, risk assessment, emergency management and specialized training on projects such as South Pars Phase 12, 32-inch sour gas transfer pipelines, Abadan Refinery Phase 2 and the SPM offshore structure — the first of its kind built in the Middle East.",
     ],
     highlights: [
       "HSE management systems",
@@ -492,7 +491,7 @@ const enDict: Dictionary = {
     eyebrow: "Education",
     title: "Academic degrees",
     subtitle: "From electrical engineering to a PhD in Industrial Management",
-    studying: "In progress",
+    studying: "PhD comprehensive exam completed",
     thesisLabel: "Academic projects",
     items: [
       {
@@ -588,7 +587,6 @@ const enDict: Dictionary = {
       { name: "Persian", level: "Native", percent: 100 },
       { name: "Arabic", level: "Full professional", percent: 90 },
       { name: "English", level: "Professional working", percent: 80 },
-      { name: "Kurdish", level: "Limited working", percent: 35 },
     ],
   },
   certificates: {
@@ -627,12 +625,12 @@ const enDict: Dictionary = {
 
 const arDict: Dictionary = {
   meta: {
-    title: "د. حسين باستام | مُحاضِر جامعي ومدير الصحة والسلامة والبيئة",
+    title: "د. حسين بستام | مُحاضِر جامعي ومدير الصحة والسلامة والبيئة",
     description:
-      "الموقع الرسمي للدكتور حسين باستام؛ مُحاضِر جامعي ومدير الصحة والسلامة والبيئة (HSE) بخبرة تتجاوز ١١ عامًا في مشاريع النفط والغاز ومصفاة عبادان وبارس الجنوبي. دكتوراه في الإدارة الصناعية وماجستير في هندسة HSE ومهندس كهرباء.",
+      "الموقع الرسمي للدكتور حسين بستام؛ مُحاضِر جامعي ومدير الصحة والسلامة والبيئة (HSE) بخبرة تتجاوز ١١ عامًا في مشاريع النفط والغاز ومصفاة عبادان وبارس الجنوبي. دكتوراه في الإدارة الصناعية وماجستير في هندسة HSE ومهندس كهرباء.",
     keywords: [
-      "حسين باستام",
-      "د. حسين باستام",
+      "حسين بستام",
+      "د. حسين بستام",
       "مدير HSE",
       "الصحة والسلامة والبيئة",
       "مدير السلامة إيران",
@@ -657,7 +655,7 @@ const arDict: Dictionary = {
     greeting: "مرحبًا! أنا",
     role: "مُحاضِر جامعي ومدير الصحة والسلامة والبيئة (HSE)",
     description:
-      "أكثر من عشر سنوات من إدارة HSE في كبرى مشاريع النفط والغاز والتكرير في إيران؛ من المرحلة ١٤ من حقل بارس الجنوبي والمرحلة ٢ من مصفاة عبادان إلى صناعات الورق في خوزستان.",
+      "أكثر من عشر سنوات من إدارة HSE في كبرى مشاريع النفط والغاز والتكرير في إيران؛ من المرحلة ١٢ من حقل بارس الجنوبي والمرحلة ٢ من مصفاة عبادان إلى صناعات الورق في خوزستان.",
     location: "خرمشهر، خوزستان، إيران",
     badges: ["دكتوراه في الإدارة الصناعية", "أخصائي أول HSE", "مهندس كهرباء"],
     ctaContact: "تواصل معي",
@@ -669,7 +667,7 @@ const arDict: Dictionary = {
       { value: "5", label: "مشاريع صناعية كبرى" },
       { value: "3", label: "مراحل أكاديمية" },
     ],
-    photoAlt: "صورة الدكتور حسين باستام، مدير HSE ومحاضر جامعي",
+    photoAlt: "صورة الدكتور حسين بستام، مدير HSE ومحاضر جامعي",
     floating1: "مدير HSE",
     floating1Sub: "GRICO",
     floating2: "محاضر جامعي",
@@ -680,9 +678,9 @@ const arDict: Dictionary = {
     title: "نبذة عني",
     subtitle: "دمج المعرفة الإدارية والفنية والتخصصية في السلامة لمشاريع صناعية معقدة",
     paragraphs: [
-      "أنا الدكتور حسين باستام؛ مُحاضِر جامعي ومدير الصحة والسلامة والبيئة (HSE) بخبرة تتجاوز ١١ عامًا في قطاعات النفط والغاز والبتروكيماويات والتكرير والإنشاءات الصناعية في إيران.",
-      "تجمع خلفيتي الأكاديمية بين الدكتوراه في الإدارة الصناعية (قيد الدراسة في الجامعة الإسلامية الآزاد — فرع سنندج)، وماجستير هندسة الصحة والسلامة والبيئة من جامعة مهرأروند، وبكالوريوس الهندسة الكهربائية والإلكترونية. يتيح لي هذا المزيج تطبيق أنظمة إدارة HSE المتكاملة القائمة على البيانات في المشاريع المعقدة.",
-      "طوال مسيرتي المهنية تولّيت تصميم وتنفيذ برامج HSE وتقييم المخاطر وإدارة الطوارئ والتدريب التخصصي في مشاريع مثل المرحلة ١٤ من بارس الجنوبي وخطوط نقل الغاز الحامض بقطر ٣٢ بوصة والمرحلة ٢ من مصفاة عبادان والهيكل البحري SPM.",
+      "أنا الدكتور حسين بستام؛ مُحاضِر جامعي ومدير الصحة والسلامة والبيئة (HSE) بخبرة تتجاوز ١١ عامًا في قطاعات النفط والغاز والبتروكيماويات والتكرير والإنشاءات الصناعية في إيران.",
+      "تجمع خلفيتي الأكاديمية بين الدكتوراه في الإدارة الصناعية (اجتياز الامتحان الشامل للدكتوراه في الجامعة الإسلامية الآزاد — فرع سنندج)، وماجستير هندسة الصحة والسلامة والبيئة من جامعة مهرأروند، وبكالوريوس الهندسة الكهربائية والإلكترونية. يتيح لي هذا المزيج تطبيق أنظمة إدارة HSE المتكاملة القائمة على البيانات في المشاريع المعقدة.",
+      "طوال مسيرتي المهنية تولّيت تصميم وتنفيذ برامج HSE وتقييم المخاطر وإدارة الطوارئ والتدريب التخصصي في مشاريع مثل المرحلة ١٢ من بارس الجنوبي وخطوط نقل الغاز الحامض بقطر ٣٢ بوصة والمرحلة ٢ من مصفاة عبادان والهيكل البحري SPM.",
     ],
     highlights: [
       "أنظمة إدارة HSE",
@@ -800,7 +798,7 @@ const arDict: Dictionary = {
     eyebrow: "التعليم",
     title: "الشهادات الجامعية",
     subtitle: "من الهندسة الكهربائية إلى الدكتوراه في الإدارة الصناعية",
-    studying: "قيد الدراسة",
+    studying: "تم اجتياز الامتحان الشامل للدكتوراه",
     thesisLabel: "المشاريع الدراسية",
     items: [
       {
@@ -896,7 +894,6 @@ const arDict: Dictionary = {
       { name: "الفارسية", level: "اللغة الأم", percent: 100 },
       { name: "العربية", level: "تسلُّط كامل", percent: 90 },
       { name: "الإنجليزية", level: "مستوى مهني", percent: 80 },
-      { name: "الكردية", level: "مستوى مبتدئ", percent: 35 },
     ],
   },
   certificates: {
@@ -927,7 +924,7 @@ const arDict: Dictionary = {
   },
   footer: {
     tagline: "مُحاضِر جامعي ومدير الصحة والسلامة والبيئة",
-    rights: "© ٢٠٢٦ الدكتور حسين باستام — جميع الحقوق محفوظة.",
+    rights: "© ٢٠٢٦ الدكتور حسين بستام — جميع الحقوق محفوظة.",
     quickNav: "روابط سريعة",
     languages: "اللغات",
   },

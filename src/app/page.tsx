@@ -96,7 +96,7 @@ function JsonLd({ locale }: { locale: Locale }) {
         "@type": "Person",
         "@id": `${base}/#person`,
         name: CONTACT.fullName[locale],
-        alternateName: ["Hossein Bastam", "حسین بستام", "حسين باستام"],
+        alternateName: ["Hossein Bastam", "حسین بستام", "حسين بستام"],
         givenName: "Hossein",
         familyName: "Bastam",
         honorificPrefix: "Dr.",
@@ -121,7 +121,7 @@ function JsonLd({ locale }: { locale: Locale }) {
           { "@type": "CollegeOrUniversity", name: "Mehr Arvand University" },
           { "@type": "CollegeOrUniversity", name: "Islamic Azad University" },
         ],
-        knowsLanguage: ["Persian", "Arabic", "English", "Kurdish"],
+        knowsLanguage: ["Persian", "Arabic", "English"],
         knowsAbout: [
           "Health, Safety and Environment (HSE)",
           "Process Safety Management",
